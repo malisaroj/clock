@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1488803556 source:c:\users\dell\desktop\graphics project\clock.cpp
+	<graphics.h>
+	<stdio.h>
+	<time.h>
+
+1488863411 source:c:\users\dell\desktop\graphics project\analogclock.cpp
+	<graphics.h>
+	<stdio.h>
+	<time.h>
+
